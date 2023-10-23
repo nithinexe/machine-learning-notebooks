@@ -1,0 +1,135 @@
+[
+  {
+  "input": "What is the national flower of Japan?",
+  "output": "The national flower of Japan is the cherry blossom (sakura)."
+},
+{
+  "input": "Who is the author of 'Frankenstein'?",
+  "output": "Mary Shelley is the author of 'Frankenstein'."
+},
+{
+  "input": "What is the chemical symbol for silver?",
+  "output": "The chemical symbol for silver is Ag."
+},
+{
+  "input": "What is the melting point of copper?",
+  "output": "The melting point of copper is approximately 1,984 degrees Fahrenheit (1,085 degrees Celsius)."
+},
+{
+  "input": "Who is known for the theory of evolution?",
+  "output": "Charles Darwin is known for the theory of evolution."
+},
+{
+  "input": "What is the capital of Argentina?",
+  "output": "The capital of Argentina is Buenos Aires."
+},
+{
+  "input": "What is the largest desert in Asia?",
+  "output": "The largest desert in Asia is the Gobi Desert."
+},
+{
+  "input": "Who discovered the structure of DNA?",
+  "output": "The structure of DNA was discovered by James Watson and Francis Crick."
+},
+{
+  "input": "What gas do humans exhale when they breathe out?",
+  "output": "Humans primarily exhale carbon dioxide when they breathe out."
+},
+{
+  "input": "Who is the author of 'The Chronicles of Narnia'?",
+  "output": "C.S. Lewis is the author of 'The Chronicles of Narnia'."
+},
+{
+  "input": "What is the chemical symbol for helium?",
+  "output": "The chemical symbol for helium is He."
+},
+{
+  "input": "What is the boiling point of ethanol?",
+  "output": "The boiling point of ethanol is approximately 78.37 degrees Celsius (173.07 degrees Fahrenheit)."
+},
+{
+  "input": "Who is known for painting the 'Mona Lisa'?",
+  "output": "Leonardo da Vinci is known for painting the 'Mona Lisa'."
+},
+{
+  "input": "What is the currency of the United Kingdom?",
+  "output": "The currency of the United Kingdom is the British Pound (GBP)."
+},
+{
+  "input": "Who wrote 'One Hundred Years of Solitude'?",
+  "output": "Gabriel García Márquez wrote 'One Hundred Years of Solitude'."
+},
+{
+  "input": "What is the chemical symbol for copper?",
+  "output": "The chemical symbol for copper is Cu."
+},
+{
+  "input": "What is the freezing point of mercury?",
+  "output": "The freezing point of mercury is approximately -38.83 degrees Celsius (-37.89 degrees Fahrenheit)."
+},
+{
+  "input": "Who is known as the 'Father of Modern Philosophy'?",
+  "output": "René Descartes is known as the 'Father of Modern Philosophy'."
+},
+{
+  "input": "What is the capital of Italy?",
+  "output": "The capital of Italy is Rome."
+},
+{
+  "input": "What is the largest mammal on Earth?",
+  "output": "The blue whale is the largest mammal on Earth."
+},
+{
+  "input": "Who wrote 'Moby-Dick'?",
+  "output": "Herman Melville wrote 'Moby-Dick'."
+},
+{
+  "input": "What is the chemical symbol for hydrogen?",
+  "output": "The chemical symbol for hydrogen is H."
+},
+{
+  "input": "What is the speed of light in a vacuum?",
+  "output": "The speed of light in a vacuum is approximately 299,792,458 meters per second."
+},
+{
+  "input": "Who is the author of '1984'?",
+  "output": "George Orwell is the author of '1984'."
+},
+{
+  "input": "What is the main gas that makes up the Earth's atmosphere?",
+  "output": "The main gas that makes up the Earth's atmosphere is nitrogen."
+},
+{
+  "input": "How many continents are there on Earth?",
+  "output": "There are seven continents on Earth."
+},
+{
+  "input": "What is the chemical symbol for gold?",
+  "output": "The chemical symbol for gold is Au."
+},
+{
+  "input": "Who painted the Mona Lisa?",
+  "output": "The Mona Lisa was painted by Leonardo da Vinci."
+},
+{
+  "input": "What is the tallest mountain in the world?",
+  "output": "Mount Everest is the tallest mountain in the world."
+},
+{
+  "input": "Who is the author of 'The Great Gatsby'?",
+  "output": "F. Scott Fitzgerald wrote 'The Great Gatsby'."
+},
+{
+  "input": "When did the Titanic sink?",
+  "output": "The Titanic sank on April 15, 1912."
+},
+{
+  "input": "What is the formula for calculating the area of a rectangle?",
+  "output": "The formula for calculating the area of a rectangle is length × width."
+},
+{
+  "input": "Who is the current President of the United States?",
+  "output": "The current President of the United States is Joe Biden."
+}
+
+]

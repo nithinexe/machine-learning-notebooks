@@ -1,0 +1,385 @@
+[
+  {"input": "What color is the sky?",
+   "output": "The sky is blue."}, 
+  {"input":"hey",
+   "output": "hey there what's up"}, 
+  {"input":"what are you doing?", 
+   "output":"trying to finetune mistral 7b on custom data"},
+{
+  "input": "How does photosynthesis work?",
+  "output": "Photosynthesis is the process by which plants convert carbon dioxide, water, and sunlight into glucose and oxygen."
+},
+{
+  "input": "What is the capital of France?",
+  "output": "The capital of France is Paris."
+},
+{
+  "input": "Who wrote the play 'Romeo and Juliet'?",
+  "output": "The play 'Romeo and Juliet' was written by William Shakespeare."
+},
+{
+  "input": "What is the boiling point of water?",
+  "output": "The boiling point of water at sea level is 100 degrees Celsius (212 degrees Fahrenheit)."
+},
+{
+  "input": "What is the formula for the area of a circle?",
+  "output": "The formula for the area of a circle is A = πr^2, where A is the area and r is the radius."
+},
+{
+  "input": "What is the tallest mountain in the world?",
+  "output": "Mount Everest is the tallest mountain in the world."
+},
+{
+  "input": "Who painted the Mona Lisa?",
+  "output": "The Mona Lisa was painted by Leonardo da Vinci."
+},
+{
+  "input": "What is the chemical symbol for gold?",
+  "output": "The chemical symbol for gold is Au."
+},
+{
+  "input": "How many continents are there on Earth?",
+  "output": "There are seven continents on Earth."
+},
+{
+  "input": "Who is the current President of the United States?",
+  "output": "The current President of the United States is Joe Biden."
+},
+{
+  "input": "What is the formula for calculating the area of a rectangle?",
+  "output": "The formula for calculating the area of a rectangle is length × width."
+},
+{
+  "input": "When did the Titanic sink?",
+  "output": "The Titanic sank on April 15, 1912."
+},
+{
+  "input": "Who wrote 'The Great Gatsby'?",
+  "output": "F. Scott Fitzgerald wrote 'The Great Gatsby'."
+},
+{
+  "input": "What is the largest planet in our solar system?",
+  "output": "Jupiter is the largest planet in our solar system."
+},
+{
+  "input": "What is the main gas that makes up the Earth's atmosphere?",
+  "output": "The main gas that makes up the Earth's atmosphere is nitrogen."
+},
+{
+  "input": "Who is known as the 'Father of Modern Physics'?",
+  "output": "Albert Einstein is known as the 'Father of Modern Physics'."
+},
+{
+  "input": "What is the capital of Japan?",
+  "output": "The capital of Japan is Tokyo."
+},
+{
+  "input": "What is the process of a caterpillar transforming into a butterfly called?",
+  "output": "The process of a caterpillar transforming into a butterfly is called metamorphosis."
+},
+{
+  "input": "What is the currency of Australia?",
+  "output": "The currency of Australia is the Australian Dollar (AUD)."
+},
+{
+  "input": "Who wrote 'To Kill a Mockingbird'?",
+  "output": "Harper Lee wrote 'To Kill a Mockingbird'."
+},
+{
+  "input": "What is the speed of light in a vacuum?",
+  "output": "The speed of light in a vacuum is approximately 299,792,458 meters per second."
+},
+{
+  "input": "What is the largest mammal on Earth?",
+  "output": "The blue whale is the largest mammal on Earth."
+},
+{
+  "input": "Who is the author of '1984'?",
+  "output": "George Orwell is the author of '1984'."
+},
+{
+  "input": "What is the chemical symbol for oxygen?",
+  "output": "The chemical symbol for oxygen is O2."
+},
+{
+  "input": "What is the smallest prime number?",
+  "output": "The smallest prime number is 2."
+},
+{
+  "input": "Who is the Greek god of the sea?",
+  "output": "The Greek god of the sea is Poseidon."
+},
+{
+  "input": "What is the process of plants making their own food using sunlight called?",
+  "output": "The process of plants making their own food using sunlight is called photosynthesis."
+},
+{
+  "input": "Who was the first woman to fly solo across the Atlantic Ocean?",
+  "output": "Amelia Earhart was the first woman to fly solo across the Atlantic Ocean."
+},
+{
+  "input": "What is the chemical symbol for carbon?",
+  "output": "The chemical symbol for carbon is C."
+},
+{
+  "input": "What is the freezing point of water in Fahrenheit?",
+  "output": "The freezing point of water in Fahrenheit is 32 degrees."
+},
+{
+  "input": "Who is the author of 'Pride and Prejudice'?",
+  "output": "Jane Austen is the author of 'Pride and Prejudice'."
+},
+{
+  "input": "What is the largest organ in the human body?",
+  "output": "The largest organ in the human body is the skin."
+},
+{
+  "input": "Who wrote the 'I Have a Dream' speech?",
+  "output": "Martin Luther King Jr. wrote the 'I Have a Dream' speech."
+},
+{
+  "input": "What gas do plants absorb from the atmosphere during photosynthesis?",
+  "output": "Plants absorb carbon dioxide from the atmosphere during photosynthesis."
+},
+{
+  "input": "Who discovered the law of gravity?",
+  "output": "Isaac Newton is credited with discovering the law of gravity."
+},
+{
+  "input": "What is the capital of Brazil?",
+  "output": "The capital of Brazil is Brasília."
+},
+{
+  "input": "What is the primary function of the heart?",
+  "output": "The primary function of the heart is to pump blood throughout the body."
+},
+{
+  "input": "Who is the author of 'The Catcher in the Rye'?",
+  "output": "J.D. Salinger is the author of 'The Catcher in the Rye'."
+},
+{
+  "input": "What is the chemical symbol for sodium?",
+  "output": "The chemical symbol for sodium is Na."
+},
+{
+  "input": "What is the boiling point of water in Kelvin?",
+  "output": "The boiling point of water in Kelvin is approximately 373.15 K."
+},
+{
+  "input": "Who is known for painting the 'Starry Night'?",
+  "output": "Vincent van Gogh is known for painting the 'Starry Night'."
+},
+{
+  "input": "What is the currency of Canada?",
+  "output": "The currency of Canada is the Canadian Dollar (CAD)."
+},
+{
+  "input": "Who wrote 'Moby-Dick'?",
+  "output": "Herman Melville wrote 'Moby-Dick'."
+},
+{
+  "input": "What is the chemical symbol for hydrogen?",
+  "output": "The chemical symbol for hydrogen is H."
+},
+{
+  "input": "What is the largest desert in the world?",
+  "output": "The largest desert in the world is the Sahara Desert."
+},
+{
+  "input": "Who is the Norse god of thunder?",
+  "output": "The Norse god of thunder is Thor."
+},
+{
+  "input": "What is the process of turning liquid into a gas called?",
+  "output": "The process of turning liquid into a gas is called vaporization."
+},
+{
+ 
+  "input": "Who was the first person to set foot on the moon?",
+  "output": "Neil Armstrong was the first person to set foot on the moon."
+},
+{
+  "input": "What is the chemical symbol for iron?",
+  "output": "The chemical symbol for iron is Fe."
+},
+{
+  "input": "What is the speed of sound in air at room temperature?",
+  "output": "The speed of sound in air at room temperature is approximately 343 meters per second."
+},
+{
+  "input": "Who wrote 'War and Peace'?",
+  "output": "Leo Tolstoy wrote 'War and Peace'."
+},
+{
+  "input": "What is the largest planet in the solar system?",
+  "output": "Jupiter is the largest planet in the solar system."
+},
+{
+  "input": "What is the largest ocean on Earth?",
+  "output": "The largest ocean on Earth is the Pacific Ocean."
+},
+{
+  "input": "Who is the author of 'The Odyssey'?",
+  "output": "Homer is the author of 'The Odyssey'."
+},
+{
+  "input": "What is the chemical symbol for silver?",
+  "output": "The chemical symbol for silver is Ag."
+},
+{
+  "input": "What is the melting point of lead?",
+  "output": "The melting point of lead is approximately 327.5 degrees Celsius (621.5 degrees Fahrenheit)."
+},
+{
+  "input": "Who is known as the 'Father of Computer Science'?",
+  "output": "Alan Turing is known as the 'Father of Computer Science'."
+},
+{
+  "input": "What is the capital of South Africa?",
+  "output": "The capital of South Africa is Pretoria."
+},
+{
+  "input": "What is the largest desert in North America?",
+  "output": "The largest desert in North America is the Sonoran Desert."
+},
+{
+  "input": "Who discovered penicillin?",
+  "output": "Alexander Fleming is credited with discovering penicillin."
+},
+{
+  "input": "What gas do humans primarily exhale when they breathe out?",
+  "output": "Humans primarily exhale carbon dioxide when they breathe out."
+},
+{
+  "input": "Who is the author of 'The Lord of the Rings'?",
+  "output": "J.R.R. Tolkien is the author of 'The Lord of the Rings'."
+},
+{
+  "input": "What is the chemical symbol for silicon?",
+  "output": "The chemical symbol for silicon is Si."
+},
+{
+  "input": "What is the freezing point of alcohol?",
+  "output": "The freezing point of alcohol depends on the type of alcohol, but for ethanol, it's approximately -114 degrees Celsius (-173 degrees Fahrenheit)."
+},
+{
+  "input": "Who is known for painting the 'Mona Lisa'?",
+  "output": "Leonardo da Vinci is known for painting the 'Mona Lisa'."
+},
+{
+  "input": "What is the currency of Japan?",
+  "output": "The currency of Japan is the Japanese Yen (JPY)."
+},
+{
+  "input": "Who wrote 'The Adventures of Sherlock Holmes'?",
+  "output": "Arthur Conan Doyle wrote 'The Adventures of Sherlock Holmes'."
+},
+{
+  "input": "What is the chemical symbol for nitrogen?",
+  "output": "The chemical symbol for nitrogen is N2."
+},
+{
+  "input": "What is the smallest planet in our solar system?",
+  "output": "Mercury is the smallest planet in our solar system."
+},
+{
+  "input": "Who is the author of 'The Hunger Games'?",
+  "output": "Suzanne Collins is the author of 'The Hunger Games'."
+},
+{
+  "input": "What is the primary function of the lungs?",
+  "output": "The primary function of the lungs is to facilitate the exchange of oxygen and carbon dioxide in the bloodstream."
+},
+{
+  "input": "What is the chemical symbol for lead?",
+  "output": "The chemical symbol for lead is Pb."
+},
+{
+  "input": "What is the boiling point of nitrogen?",
+  "output": "The boiling point of nitrogen is approximately -196 degrees Celsius (-321 degrees Fahrenheit)."
+},
+{
+  "input": "Who is known as the 'Father of the American Revolution'?",
+  "output": "George Washington is known as the 'Father of the American Revolution'."
+},
+{
+  "input": "What is the capital of Russia?",
+  "output": "The capital of Russia is Moscow."
+},
+{
+  "input": "What is the largest rainforest in the world?",
+  "output": "The largest rainforest in the world is the Amazon Rainforest."
+},
+{
+  "input": "Who discovered electricity?",
+  "output": "Electricity was not discovered by a single individual, but its understanding and use evolved over time, with contributions from many scientists."
+},
+{
+  "input": "What gas do humans breathe in to support respiration?",
+  "output": "Humans primarily breathe in oxygen to support respiration."
+},
+{
+  "input": "Who is the author of 'Brave New World'?",
+  "output": "Aldous Huxley is the author of 'Brave New World'."
+},
+{
+  "input": "What is the chemical symbol for uranium?",
+  "output": "The chemical symbol for uranium is U."
+},
+{
+  "input": "What is the melting point of ice?",
+  "output": "The melting point of ice at standard atmospheric pressure is 0 degrees Celsius (32 degrees Fahrenheit)."
+},
+{
+  "input": "Who is known for the theory of relativity?",
+  "output": "Albert Einstein is known for the theory of relativity."
+},
+{
+  "input": "What is the capital of Canada?",
+  "output": "The capital of Canada is Ottawa."
+},
+{
+  "input": "What is the largest island in the world?",
+  "output": "The largest island in the world is Greenland."
+},
+{
+  "input": "Who is the author of 'The Great Expectations'?",
+  "output": "Charles Dickens is the author of 'The Great Expectations'."
+},
+{
+  "input": "What is the chemical symbol for potassium?",
+  "output": "The chemical symbol for potassium is K."
+},
+{
+  "input": "What is the freezing point of mercury?",
+  "output": "The freezing point of mercury is approximately -38.83 degrees Celsius (-37.89 degrees Fahrenheit)."
+},
+{
+  "input": "Who is known for painting the 'Guernica'?",
+  "output": "Pablo Picasso is known for painting the 'Guernica'."
+},
+{
+  "input": "What is the currency of China?",
+  "output": "The currency of China is the Renminbi (RMB) or Yuan (CNY)."
+},
+{
+  "input": "Who wrote 'The Divine Comedy'?",
+  "output": "Dante Alighieri wrote 'The Divine Comedy'."
+},
+{
+  "input": "What is the chemical symbol for phosphorus?",
+  "output": "The chemical symbol for phosphorus is P."
+},
+{
+  "input": "What is the boiling point of alcohol?",
+  "output": "The boiling point of alcohol depends on the type of alcohol, but for ethanol, it's approximately 78.37 degrees Celsius (173.07 degrees Fahrenheit)."
+},
+{
+  "input": "Who is known as the 'Father of Modern Philosophy'?",
+  "output": "René Descartes is known as the 'Father of Modern Philosophy'."
+},
+{
+  "input": "What is the capital of India?",
+  "output": "The capital of India is New Delhi."
+}
+]
